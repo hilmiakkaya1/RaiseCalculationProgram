@@ -7,7 +7,7 @@ This Ruby program is used to calculate the salary after a raise by entering the 
 1. Run the program (for example, `ruby raise_calculation.rb`).
 2. First, the program will ask you to enter your salary. Please enter a valid salary. If you enter an invalid salary, the program will give you an error message and ask you to try again until you enter a valid salary.
 
-3. Next, the program will ask you to enter the raise percentage. For example, if you want to give a 35% raise, enter 35. Again, remember that you only need to enter numbers. If you enter an invalid number, the program will give you an error message and ask you to try again until you enter a valid number.
+3. Next, the program will ask you to enter the raise percentage. For example, if you want to give a 30% raise, enter 30. Again, remember that you only need to enter numbers. If you enter an invalid number, the program will give you an error message and ask you to try again until you enter a valid number.
 
 4. Once you have entered the correct salary and raise percentage, the program will calculate the raise amount and the salary after the raise.
 
