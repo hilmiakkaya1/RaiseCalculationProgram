@@ -18,7 +18,7 @@ This Ruby program is used to calculate the salary after a raise by entering the 
 ```
 Please enter your salary
 25000
-Please enter the percentage increase (for example, if 35%, enter 35)
+Please enter the percentage increase (for example, if 30%, enter 30)
 30
 Amount of increase 7500 TL
 Your salary after the raise: 32500 TL
